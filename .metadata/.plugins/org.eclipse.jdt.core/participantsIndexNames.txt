@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+D:\Program Files\javaeeÖĞÈí\ÏîÄ¿\workspace1\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3684504006.index
+\SpamDeterminationWebClient\src
